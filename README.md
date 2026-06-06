@@ -1,5 +1,6 @@
 # EX-NO-14-HASH-ALGORITHM
-
+## NAME: V.S.SREE VIVEKA
+## REG NO: 2305001031
 ## AIM:
 To implement HASH ALGORITHM
 
@@ -71,7 +72,8 @@ int main() {
 ```
 
 ## Output:
-
+<img width="623" height="318" alt="image" src="https://github.com/user-attachments/assets/04b968b7-35f3-4a00-9204-c22e9a75b54b" />
+<img width="851" height="384" alt="image" src="https://github.com/user-attachments/assets/ad978734-0f8c-4efb-afe7-1953390fcb49" />
 
 ## Result:
 The program is executed successfully.
